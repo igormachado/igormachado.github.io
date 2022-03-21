@@ -1,0 +1,24 @@
+body {
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Playfair Display", bold;
+    letter-spacing: 5px;
+    color:blueviolet; 
+}
+
+.w3-content {
+    max-width:1100px;
+
+}
+
+#img-section {
+    width:600px;
+    height:750px;
+}
