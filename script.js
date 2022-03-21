@@ -1,9 +1,9 @@
 // Language Programming
 
 const language = [
-  "javascript",
-  "typescript",
-  "python",
+  "Javascript",
+  "Typescript",
+  "Python",
   "Bootstrap",
   "Postgres/MariaDB/Oracle/SQL",
   "HTML & CSS",
