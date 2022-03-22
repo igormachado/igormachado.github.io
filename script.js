@@ -22,7 +22,7 @@ language.forEach((item) => {
 
 // Frameworks
 
-let frameworks = ["NodeJS", "Django", "ReactJS"];
+let frameworks = ["NodeJS", "Django", "ReactJS","JEST","Typeorm"];
 
 frameworks.forEach((item) => {
   let ul = document.getElementById("ul-framework");
@@ -35,7 +35,10 @@ frameworks.forEach((item) => {
   ul.appendChild(li);
 });
 
+// Infrastructure
+
 let infrastructure = [
+  "Docker",
   "Windows Server",
   "Linux",
   "Cisco network",
