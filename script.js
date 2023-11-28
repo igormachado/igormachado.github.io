@@ -22,7 +22,7 @@ language.forEach((item) => {
 
 // Frameworks
 
-let frameworks = ["NodeJS", "Django", "ReactJS","JEST","Typeorm"];
+let frameworks = ["NodeJS", "React Native", "ReactJS","JEST","Typeorm","Redux","NextJS"];
 
 frameworks.forEach((item) => {
   let ul = document.getElementById("ul-framework");
@@ -62,27 +62,3 @@ infrastructure.forEach((item) => {
 })
 
 
-// for (element = 0; element <= 3; element++) {
-//   createLi01 = document.createElement("li");
-//   createLi01.className = "li-01";
-//   getUl01.appendChild(createLi01);
-// }
-
-// let getli01 = document.querySelectorAll("#li-01")[0];
-
-// console.log(getli01);
-
-// console.log(getUl01);
-
-// for (index in language) {
-//   result = language[index];
-//   result_index = index[0]
-// //   console.log(result_index)
-//   console.log(result);
-
-// }
-
-// console.log(getli01)
-// for (index in language) {
-//     getli01.textContent = language[index]
-// }
